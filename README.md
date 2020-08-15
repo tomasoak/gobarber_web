@@ -3,13 +3,11 @@
 </h1>
 
 <h3 align="center">
-  API Express Application for GoBarber project
+  ReactJS Application for GoBarber project
 </h3>
 
-<p align="center">The best way to schedule your service!</p>
-
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tomaoak/gobarber_web?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tomasoak/gobarber_web?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/tomas-carvalho/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Tomas%20Carvalho-%23FF9000">
@@ -29,7 +27,7 @@
 </p>
 
 
-## About
+## :mag_right: About
 
 This repository provides and nice interface to schedule appointments between barbers and customers.
 
@@ -73,7 +71,7 @@ Install dependencies
 
 ``` $ yarn ```
 
-### Run API
+### Run application
 
 ``` $ yarn start ```
 
