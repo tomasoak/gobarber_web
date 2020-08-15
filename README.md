@@ -82,5 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Tomás Carvalho 👋 [See my linkedin](https://www.linkedin.com/in/tomas-carvalho/)
+Made by Tomás Carvalho 👋 [See my linkedin](https://www.linkedin.com/in/tomas-carvalho/)
 
