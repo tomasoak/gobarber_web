@@ -1,44 +1,88 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img alt="Logo" src=".github/logo.svg" width="200px">
+</h1>
 
-## Available Scripts
+<h3 align="center">
+  API Express Application for GoBarber project
+</h3>
 
-In the project directory, you can run:
+<p align="center">The best way to schedule your service!</p>
 
-### `yarn start`
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/TomasOak/gobarber-api?color=%23FF9000">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://www.linkedin.com/in/tomas-carvalho/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-tomas%20carvalho-%23FF9000">
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tomasoak/gobarber_api?color=%23FF9000">
 
-### `yarn test`
+  <a href="https://github.com/tomasoak/gobarber_api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tomasoakf/gobarber_api?color=%23FF9000">
+  </a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <a href="https://github.com/tomasoak/gobarber_api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/tomasoak/gobarber_api?color=%23FF9000">
+  </a>
 
-### `yarn build`
+  <img alt="GitHub" src="https://img.shields.io/github/license/tomasoak/gobarber_api?color=%23FF9000">
+</p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## About
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This repository provides and nice interface to schedule appointments between barbers and customers.
 
-### `yarn eject`
+Customers can choose the best time available to them.
+Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To see the api, click here: [GoBarber API](https://github.com/tomasoak/gobarber_api)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Yarn](https://classic.yarnpkg.com/lang/en/) -*version:* 1.22.0
+- [ReactJS](https://reactjs.org/) - *version:* 16.13.1
+- [React Router DOM](https://reactrouter.com/) - *version:* 5.2.0
+- [React Icons](https://react-icons.github.io/react-icons/#/) - *version:* 3.10.0
+- [React Day Picker](https://reactdatepicker.com/) - *version:* 7.4.8
+- [TypeScript](https://www.typescriptlang.org/) - *version:* 3.7.2
+- [Styled-components](https://styled-components.com/docs/basics) - *version:* 5.1.1
+- [Polished](https://github.com/styled-components/polished) - *version:* 3.6.4
+- [Yup](https://github.com/jquense/yup) - *version:* 0.29.1
+- [Date-fns](https://date-fns.org/) - *version:* 2.14.0
+- [UUID v4](https://github.com/thenativeweb/uuidv4/) - *version:* 6.1.0
+- [Axios](https://github.com/axios/axios) - *version:* 0.19.2
+- [Unform](https://unform.dev/) - *version:* 2.1.0
+- [ESLint](https://eslint.org/) - *version:* 6.8.0
+- [Prettier](https://prettier.io/) - *version:* 2.0.4
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# :computer: Getting started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Cloning the project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+``` $ git clone https://github.com/tomasoak/gobarber_web.git ```
+
+### Installing dependencies
+
+Install YARN with NPM
+
+``` $ npm install yarn -g ```
+
+Install dependencies
+
+``` $ yarn ```
+
+### Run API
+
+``` $ yarn start ```
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜 by Tomás Carvalho 👋 [See my linkedin](https://www.linkedin.com/in/tomas-carvalho/)
+
