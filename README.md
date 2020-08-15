@@ -34,7 +34,7 @@ This repository provides and nice interface to schedule appointments between bar
 Customers can choose the best time available to them.
 Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
 
-To see the api, click here: [GoBarber API](https://github.com/tomasoak/gobarber_api)
+To see the API, click here: [GoBarber API](https://github.com/tomasoak/gobarber_api)
 
 ## :rocket: Technologies
 
